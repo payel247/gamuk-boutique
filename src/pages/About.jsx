@@ -8,16 +8,16 @@ const About = () => {
         
         <div className="prose prose-lg prose-stone max-w-none">
           <section className="mb-12">
-            <h2 className="text-2xl font-bold text-terracotta mb-4">Sharing East African Heritage</h2>
+            <h2 className="text-2xl font-bold text-terracotta mb-4">Sharing West African Heritage</h2>
             <p className="text-charcoal leading-relaxed">
-              Gamuk Boutique was born from a desire to share a piece of East African heritage with the world. In the vibrant markets and homes of Uganda and Kenya, the "Gamuk" (or net washcloth) is more than just a bath tool—it’s a daily ritual of care, passed down through generations.
+              Gamuk Boutique was born from a desire to share a piece of West African heritage with the world. In the vibrant markets and homes of Nigeria and Ghana, the "Gamuk" (or net washcloth) is more than just a bath tool—it’s a daily ritual of care, passed down through generations.
             </p>
           </section>
 
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-terracotta mb-4">What is a Gamuk?</h2>
             <p className="text-charcoal leading-relaxed">
-              The Gamuk is a long, hand-knotted nylon net that has been the gold standard for exfoliation in East Africa for decades. Unlike synthetic loofahs that harbor bacteria and lose their shape, a Gamuk is designed to last, dry quickly, and provide a deep, satisfying scrub that leaves your skin feeling incredibly soft.
+              The Gamuk is a long, hand-knotted nylon net that has been the gold standard for exfoliation in West Africa for decades. Unlike synthetic loofahs that harbor bacteria and lose their shape, a Gamuk is designed to last, dry quickly, and provide a deep, satisfying scrub that leaves your skin feeling incredibly soft.
             </p>
           </section>
 
@@ -43,7 +43,7 @@ const About = () => {
                 <span className="text-terracotta mr-3 text-xl">✓</span>
                 <div>
                   <strong className="block text-charcoal">Authenticity:</strong>
-                  <span className="text-gray-600">We source our nets directly, ensuring you get the same quality used in East African households.</span>
+                  <span className="text-gray-600">We source our nets directly, ensuring you get the same quality used in West African households.</span>
                 </div>
               </li>
               <li className="flex items-start">

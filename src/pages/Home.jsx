@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { usePageTitle } from '../hooks/usePageTitle';
 
 const Home = () => {
-  usePageTitle('Authentic East African Net Washcloths');
+  usePageTitle('Authentic West African Net Washcloths');
   return (
     <div className="bg-sand">
       {/* Hero Section */}
@@ -18,7 +18,7 @@ const Home = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32">
           <div className="max-w-3xl">
             <h1 className="text-4xl sm:text-6xl font-bold tracking-tight mb-6">
-              The Authentic East African Scrub. Radiant Skin, Simplified.
+              The Authentic West African Scrub. Radiant Skin, Simplified.
             </h1>
             <p className="text-xl sm:text-2xl mb-10 text-sand opacity-90">
               Experience the traditional Gamuk—the exfoliating net washcloth that lasts longer, cleans deeper, and leaves your skin glowing.
@@ -55,7 +55,7 @@ const Home = () => {
       {/* Social Proof */}
       <div className="bg-sand py-16 border-t border-b border-terracotta/20">
         <div className="max-w-4xl mx-auto px-4 text-center italic text-2xl font-serif text-deep-forest">
-          "It feels like home. I’ve tried everything, but nothing compares to the real thing. My skin hasn't felt this soft since I was back in Kampala!"
+          "It feels like home. I’ve tried everything, but nothing compares to the real thing. My skin hasn't felt this soft since I was back in Lagos!"
           <span className="block mt-4 text-lg not-italic font-sans text-charcoal font-bold">— Faith K., London</span>
         </div>
       </div>

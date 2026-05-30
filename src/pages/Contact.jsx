@@ -26,7 +26,7 @@ const Contact = () => {
                 <MapPin className="h-6 w-6 text-terracotta mr-4" />
                 <div>
                   <h3 className="font-bold text-charcoal">Location</h3>
-                  <p className="text-gray-600">Kampala, Uganda / London, UK</p>
+                  <p className="text-gray-600">Lagos, Nigeria / London, UK</p>
                 </div>
               </div>
               <div className="flex items-start">

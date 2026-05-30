@@ -3,7 +3,7 @@ export const products = [
     id: 1,
     name: 'The Original Gamuk (Single)',
     price: 12.00,
-    description: 'The authentic East African net washcloth. Durable, hygienic, and incredibly exfoliating. Hand-knotted durable nylon, quick-drying & anti-bacterial.',
+    description: 'The authentic West African net washcloth. Durable, hygienic, and incredibly exfoliating. Hand-knotted durable nylon, quick-drying & anti-bacterial.',
     image: '/images/product-colors-trio.png',
     category: 'Washcloths',
   },

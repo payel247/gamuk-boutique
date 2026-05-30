@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-1">
             <Link to="/" className="text-2xl font-bold text-terracotta mb-6 block">Gamuk Boutique</Link>
             <p className="text-gray-600 text-sm leading-relaxed">
-              Bringing the traditional, exfoliating bath sponge from East Africa to your doorstep. Authentic, durable, and radiant skin.
+              Bringing the traditional, exfoliating bath sponge from West Africa to your doorstep. Authentic, durable, and radiant skin.
             </p>
           </div>
           

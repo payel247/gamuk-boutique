@@ -63,7 +63,7 @@ const ProductDetail = () => {
               <div className="grid grid-cols-1 gap-y-6">
                 <div className="flex items-center">
                   <ShieldCheck className="h-6 w-6 text-ochre mr-3" />
-                  <span className="text-charcoal font-medium">Authentic East African Quality</span>
+                  <span className="text-charcoal font-medium">Authentic West African Quality</span>
                 </div>
                 <div className="flex items-center">
                   <Truck className="h-6 w-6 text-ochre mr-3" />

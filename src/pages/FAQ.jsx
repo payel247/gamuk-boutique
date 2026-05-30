@@ -4,7 +4,7 @@ const FAQ = () => {
   const faqs = [
     {
       q: "What is a Gamuk?",
-      a: "A Gamuk (also known as an African Net Sponge or sponge net) is a traditional exfoliating washcloth used widely in East Africa, particularly in Uganda and Kenya. It is made of a durable, hand-knotted nylon net that provides superior exfoliation compared to standard loofahs."
+      a: "A Gamuk (also known as an African Net Sponge or sponge net) is a traditional exfoliating washcloth used widely in West Africa, particularly in Nigeria and Ghana. It is made of a durable, hand-knotted nylon net that provides superior exfoliation compared to standard loofahs."
     },
     {
       q: "How do I use it?",
