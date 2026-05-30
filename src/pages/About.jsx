@@ -10,7 +10,7 @@ const About = () => {
           <section className="mb-12">
             <h2 className="text-2xl font-bold text-terracotta mb-4">Sharing West African Heritage</h2>
             <p className="text-charcoal leading-relaxed">
-              Gamuk Boutique was born from a desire to share a piece of West African heritage with the world. In the vibrant markets and homes of Nigeria and Ghana, the "Gamuk" (or net washcloth) is more than just a bath tool—it’s a daily ritual of care, passed down through generations.
+              Gamuk Boutique was born from a desire to share a piece of West African heritage with the world. In the vibrant markets and homes of Nigeria, Ghana, and other West African countries, the "Gamuk" (or net washcloth) is more than just a bath tool—it’s a daily ritual of care, passed down through generations.
             </p>
           </section>
 
