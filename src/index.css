@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-terracotta: #C05E42;
+  --color-deep-forest: #2D4033;
+  --color-ochre: #B8860B;
+  --color-sand: #F5F5DC;
+  --color-charcoal: #333333;
+
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Montserrat", sans-serif;
+}
+
+/* Custom styles for heritage feel */
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-sand);
+  color: var(--color-charcoal);
+}
+
+.btn-primary {
+  @apply bg-terracotta text-white px-8 py-3 rounded-md font-medium hover:bg-terracotta/90 transition-all;
+}
+
+.btn-secondary {
+  @apply bg-deep-forest text-white px-8 py-3 rounded-md font-medium hover:bg-deep-forest/90 transition-all;
+}
